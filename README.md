@@ -2,11 +2,6 @@
 
 A comprehensive, production-ready AI-powered online pharmacy platform built with a multi-agent architecture. The system uses autonomous AI agents to assist customers with medicine search, prescription validation, order processing, and more.
 
-![Architecture](https://img.shields.io/badge/Architecture-Multi--Agent-blue)
-![Backend](https://img.shields.io/badge/Backend-FastAPI-green)
-![Frontend](https://img.shields.io/badge/Frontend-React%2FTypeScript-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
 ## 🌟 Features
 
 ### Customer Features
@@ -309,12 +304,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 This is a demonstration application for educational purposes. It is not a real pharmacy and should not be used for actual medical advice or medication purchases. Always consult licensed healthcare professionals for medical needs.
 
-## 📞 Support
-
-- **Documentation**: https://docs.pharmacy.ai
-- **Issues**: https://github.com/your-org/pharmacy-ai/issues
-- **Email**: support@pharmacy.ai
-
----
 
 Built with ❤️ using FastAPI, React, and OpenAI
